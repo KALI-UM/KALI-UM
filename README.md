@@ -1,6 +1,15 @@
 ### Hi there 👋
 notion Portfolio → https://elemental-iguanodon-d7e.notion.site/Portfolio-cc443d1a65e545aba86368f4916ac766?pvs=4
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-UM&layout=donut&langs_count=4)](https://github.com/KALI-UM/github-readme-stats)
+
+### Once I've Used
+
+
 <!--
+스탯
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KALI-UM)](https://github.com/KALI-UM/github-readme-stats)
+
 **KALI-UM/KALI-UM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
