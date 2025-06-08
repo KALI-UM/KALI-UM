@@ -1,37 +1,44 @@
 
+## 🧩 About Me
+---
 
-<!-- 프로필 정보 위젯 -->
-<div align="center">
-<table>
-  <tr>
-      <td valign="top">
-        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-UM&layout=donut&langs_count=4)](https://github.com/KALI-UM/github-readme-stats)
-          </td>
-    <td align="left" width="55%" valign="center">
-    <h3>🛠️ Tools</h3>
-      <p>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SVN-181717?style=flat-square&logo=svn&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-      </p>
-     <h3>💻 Languages & Frameworks</h3>
-      <p>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ImGui-00465B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-UM&layout=donut&langs_count=4" width="400"/>
+</p>
+
+<p align="center">
+  <b>🛠️ Tools</b><br/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SVN-181717?style=flat-square&logo=subversion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>💻 Languages & Frameworks</b><br/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ImGui-00465B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=white"/>
+</p>
+
 ---
 
 
 
 
 <!--
+
+## 🎮 Projects
+
+### [ProjectName1](https://github.com/사용자명/레포이름)
+<p>
+  <img src="https://placehold.co/600x300?text=Project+Screenshot+1" width="100%"/>
+</p>
+- 🔧 **엔진**: Unity  
+- 📌 **기능**: 커스텀 인벤토리 시스템, 데이터 드리븐 UI  
+- 🧠 **중점사항**: Event 기반 구조를 도입하여 팀원 간 충돌 최소화  
+- 📎 **관련 문서**: [Notion 설계 문서](https://your-notion-link)
 
 ## 🧩 About Me
 
