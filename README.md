@@ -35,7 +35,7 @@
   </article>
 
   <article>
-           <h3><a href="https://github.com/KALI-UM/Unity-MiniTeam9.git" target="_blank" rel="noopener noreferrer">
+           <h3><a href="https://github.com/KALI-UM/Unity-MiniTeam9/blob/main/README.md" target="_blank" rel="noopener noreferrer">
   그만 좀 쳐들어와 <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></h3></a>
     <ul>
       <li>모바일</li>
