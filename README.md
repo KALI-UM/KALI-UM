@@ -53,7 +53,7 @@
   </article>
 
   <article>
-    <h3><a href="https://github.com/KALI-UM/SFML-SimCity2000" target="_blank" rel="noopener noreferrer">
+    <h3><a href="https://github.com/KALI-UM/SFML-SimCity2000/blob/master/README.md" target="_blank" rel="noopener noreferrer">
   SimCity2000 모작 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white"/> <img src="https://img.shields.io/badge/ImGui-00465B?style=flat-square"/></h3></a>
     <ul>
       <li> PC</li>
