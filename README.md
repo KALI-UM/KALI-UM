@@ -35,7 +35,7 @@
   </article>
 
   <article>
-           <h3><a href="https://github.com/KALI-UM/Unity-MiniTeam9/blob/main/README.md" target="_blank" rel="noopener noreferrer">
+           <h3><a href="https://github.com/KALI-UM/Unity-MiniTeam9" target="_blank" rel="noopener noreferrer">
   그만 좀 쳐들어와 <img src="https://img.shields.io/badge/C%23-80247B?style=flat-square&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/></h3></a>
     <ul>
       <li>모바일</li>
@@ -53,7 +53,7 @@
   </article>
 
   <article>
-    <h3><a href="https://github.com/KALI-UM/SFML-SimCity2000/blob/master/README.md" target="_blank" rel="noopener noreferrer">
+    <h3><a href="https://github.com/KALI-UM/SFML-SimCity2000" target="_blank" rel="noopener noreferrer">
   SimCity2000 모작 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/SFML-8CC445?style=flat-square&logo=sfml&logoColor=white"/> <img src="https://img.shields.io/badge/ImGui-00465B?style=flat-square"/></h3></a>
     <ul>
       <li> PC</li>
